@@ -40,3 +40,11 @@ body {
     border: 1px solig transparent;
     border-radius: 4px;
 }
+.page-header h1 { 
+    font-family: 'Roboto';
+    font-size: 1.9em; 
+    text-align: center;
+    color: black;
+    margin-bottom: 10px; 
+    font-weight: bold;
+}
