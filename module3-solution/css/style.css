@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body { 
+    font-size: 16px; 
+    color: #fff; 
+    font-family: 'Roboto'; 
+    background-color: grey;
+}
+#header-nav { 
+    background-color: khaki;
+    border-radius: 0; 
+    border: 0;
+    padding: 20px; 
+}
+.navbar-brand { 
+    padding: 25px; 
+}
+.navbar-brand h1 { 
+    font-family: 'Roboto';
+    font-size: 1.9em; 
+    text-transform: uppercase;
+    font-weight: bold; 
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0; 
+    margin-bottom: 0;
+    line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus { 
+    text-decoration: none;
+}
+.navbar-toggle { 
+    position: relative;
+    float: right; 
+    padding: 9px 10px; 
+    margin-top: 8px; 
+    margin-bottom: 8px; 
+    margin-right: 15px;
+    background-color: white;
+    background-image: none;
+    border: 1px solig transparent;
+    border-radius: 4px;
+}
