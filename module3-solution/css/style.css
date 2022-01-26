@@ -1,10 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+* { 
+    box-sizing: border-box;
+}
 body { 
     font-size: 16px; 
     color: #fff; 
     font-family: 'Roboto'; 
-    background-color: grey;
+    background-color: lightblue
 }
 #header-nav { 
     background-color: khaki;
@@ -47,4 +50,8 @@ body {
     color: black;
     margin-bottom: 10px; 
     font-weight: bold;
+}
+.chicken-menu { 
+    background-color: grey;
+    padding: 5px 5px 5px 5px; 
 }
