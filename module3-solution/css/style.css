@@ -49,9 +49,10 @@ body {
     text-align: center;
     color: black;
     margin-bottom: 10px; 
-    font-weight: bold;
+    font-weight: bold;  
 }
 .chicken-menu { 
     background-color: grey;
-    padding: 5px 5px 5px 5px; 
+    padding-left: 20px; 
+    padding-right: 20px;
 }
