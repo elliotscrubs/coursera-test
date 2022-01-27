@@ -53,6 +53,20 @@ body {
 }
 .chicken-menu { 
     background-color: grey;
-    padding-left: 20px; 
-    padding-right: 20px;
+}
+#collapse-nav li { 
+    background-color: cornflowerblue;
+    padding: 10px; 
+    text-align: center;
+    font-style: italic;
+}
+.menu-item {
+	outline: 1px solid black;
+}
+
+@media(max-width: 768px) {
+   .menu-item {
+    margin: -15px;  
+    margin-top: 10px;
+   } 
 }
